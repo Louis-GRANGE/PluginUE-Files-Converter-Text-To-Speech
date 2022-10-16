@@ -18,8 +18,8 @@ Right click on **"EWBP_MainPanel"** and Click on **"Run editor Utility Widget"**
 Now you get this window and you can switch to **"Convert"** and **"Text To Speech"** panels :
 ![](https://i.gyazo.com/0bfa16df1086d3efad6663637f1a6d75.png)
 
-<img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="30" height="30"> ##Setup panels
-You have to setup settings of panels before start on click on this icon ![](https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png =25x)
+## Setup panels<img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="30" height="30">
+You have to setup settings of panels before start on click on this icon <img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="25" height="25">
 
 To get an API key you have to :
  - To use **"Convert"** panel :
