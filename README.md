@@ -3,7 +3,7 @@
 This plugin is use to Convert lot of types of file with free API : **[API2Convert](https://www.api2convert.com/)** (like MP3 to WAV) & also use to Speech to Text with free API : **[Voice RSS](https://www.voicerss.org/)** directly in your project in the WidgetEditor of Unreal Engine.
 
 
-Add the plugin in your project, you have to: 
+To add the plugin in your project, you have to: 
  1. [Download the plugin through the Marketplace](https://www.unrealengine.com/marketplace/product/runtime-files-downloader).
 2.  Manual installation. Select and download [the release](https://github.com/Louis-GRANGE/PluginUE-Files-Converter-Text-To-Speech/releases) for the required engine version, extract the archive into your plugins project folder to get the following path:  **"[ProjectName]/Plugins/"**.
 
@@ -33,3 +33,19 @@ To get an API key you have to :
 	 
 
 ## How to use
+### Convert panel
+You can **"Refresh"** the list of found recursivly files, **"Select"** the multiple files and click to **"Convert x files"** to convert all selected files. Or just **double click** on the file in the list to **convert direclty** with settings setup.
+![](https://i.gyazo.com/663aaf261f7887dccc7c78f6f0c77aca.png)
+
+### Text to Speech panel
+You can write what you want in the placeholder front of **"Text to speech"** (Max size : 1955)
+And after that click to **"Send"** to download your text to speech file with settings setup.
+![](https://i.gyazo.com/fbb3e7a7cc19aff8d91c6d15662fbfbb.png)
+
+
+	 
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+## Legal info
+Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+Unreal® Engine, Copyright 1998 – 2022, Epic Games, Inc. All rights reserved.
