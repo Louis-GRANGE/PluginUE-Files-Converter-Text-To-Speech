@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Convert files & Text To Speech",
+	"Description": "Plugin to Convert differents files like audio into other format using call Free API (ex: mp3 to wav) and possibility to use Text-to-Speech with call Free API ",
+	"Category": "Files & TTS",
+	"CreatedBy": "LouisG",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AudioManagerEditor",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EasyFileDialog",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "VaRest",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
