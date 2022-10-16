@@ -11,6 +11,7 @@ To add the plugin in your project, you have to:
 Go to your content browser in you project and click on **"AudioManagerEditor"**
 ![](https://i.gyazo.com/42171487b0d5d81879aa3805c37c9610.png)
 
+
 Right click on **"EWBP_MainPanel"** and Click on **"Run editor Utility Widget"**
 ![](https://i.gyazo.com/0c9bee52ea0a975620e370b199011ec9.png)
 
