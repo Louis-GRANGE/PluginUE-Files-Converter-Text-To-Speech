@@ -4,7 +4,7 @@ This plugin is use to Convert lot of types of file with free API : **[API2Conver
 
 
 To add the plugin in your project, you have to: 
- 1. [Download the plugin through the Marketplace](https://www.unrealengine.com/marketplace/product/runtime-files-downloader).
+ 1. [Download the plugin through the Marketplace](https://www.unrealengine.com/marketplace/product/files-converter-text-to-speech).
  2. Manual installation. Select and download [the release](https://github.com/Louis-GRANGE/PluginUE-Files-Converter-Text-To-Speech/releases) for the required engine version, extract the archive into your plugins project folder to get the following path:  **"[ProjectName]/Plugins/"**.
 
 ## How to launch
