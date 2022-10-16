@@ -11,7 +11,7 @@ To add the plugin in your project, you have to:
 Go to your content browser in you project and click on **"AudioManagerEditor"**
 ![](https://i.gyazo.com/42171487b0d5d81879aa3805c37c9610.png)
 
-Right click on **"EWBP_MainPanel"** and Click on **"Run editor Utility Widget"**
+Right click on **"EWBP_MainPanel"** and Click on **"Run Editor Utility Widget"**
 
 ![](https://i.gyazo.com/0c9bee52ea0a975620e370b199011ec9.png)
 
@@ -41,6 +41,7 @@ You can **"Refresh"** the list of found recursivly files, **"Select"** the multi
 ### Text to Speech panel
 You can write what you want in the placeholder front of **"Text to speech"** (Max size : 1955)
 And after that click to **"Send"** to download your text to speech file with settings setup.
+
 ![](https://i.gyazo.com/fbb3e7a7cc19aff8d91c6d15662fbfbb.png)
 
 ## Legal info
