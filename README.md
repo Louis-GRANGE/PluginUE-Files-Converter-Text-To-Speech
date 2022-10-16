@@ -18,7 +18,7 @@ Right click on **"EWBP_MainPanel"** and Click on **"Run editor Utility Widget"**
 Now you get this window and you can switch to **"Convert"** and **"Text To Speech"** panels :
 ![](https://i.gyazo.com/0bfa16df1086d3efad6663637f1a6d75.png)
 
-## Setup panels<img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="30" height="30">
+## Setup panels <img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="30" height="30">
 You have to setup settings of panels before start on click on this icon <img src="https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png" width="25" height="25">
 
 To get an API key you have to :
@@ -42,10 +42,6 @@ You can **"Refresh"** the list of found recursivly files, **"Select"** the multi
 You can write what you want in the placeholder front of **"Text to speech"** (Max size : 1955)
 And after that click to **"Send"** to download your text to speech file with settings setup.
 ![](https://i.gyazo.com/fbb3e7a7cc19aff8d91c6d15662fbfbb.png)
-
-
-	 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 ## Legal info
 Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
