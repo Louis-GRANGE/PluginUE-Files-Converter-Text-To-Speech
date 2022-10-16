@@ -5,7 +5,7 @@ This plugin is use to Convert lot of types of file with free API : **[API2Conver
 
 To add the plugin in your project, you have to: 
  1. [Download the plugin through the Marketplace](https://www.unrealengine.com/marketplace/product/runtime-files-downloader).
-2.  Manual installation. Select and download [the release](https://github.com/Louis-GRANGE/PluginUE-Files-Converter-Text-To-Speech/releases) for the required engine version, extract the archive into your plugins project folder to get the following path:  **"[ProjectName]/Plugins/"**.
+ 2. Manual installation. Select and download [the release](https://github.com/Louis-GRANGE/PluginUE-Files-Converter-Text-To-Speech/releases) for the required engine version, extract the archive into your plugins project folder to get the following path:  **"[ProjectName]/Plugins/"**.
 
 ## How to launch
 Go to your content browser in you project and click on **"AudioManagerEditor"**
@@ -17,7 +17,8 @@ Right click on **"EWBP_MainPanel"** and Click on **"Run editor Utility Widget"**
 Now you get this window and you can switch to **"Convert"** and **"Text To Speech"** panels :
 ![](https://i.gyazo.com/0bfa16df1086d3efad6663637f1a6d75.png)
 
-## ![](https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png =30x) Setup panels 
+## Setup panels
+![](https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png =30x)
 You have to setup settings of panels before start on click on this icon ![](https://i.gyazo.com/53480d0992d95e5cc688f6d36314e4b3.png =25x)
 
 To get an API key you have to :
