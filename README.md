@@ -7,5 +7,5 @@ To add you plugin in your project, you have to:
  1. [Download the plugin through the Marketplace](https://www.unrealengine.com/marketplace/product/runtime-files-downloader).
 2.  Manual installation. Select and download [the release](https://github.com/Louis-GRANGE/PluginUE-Files-Converter-Text-To-Speech/releases) for the required engine version, extract the archive into your plugins project folder to get the following path:  **"[ProjectName]/Plugins/"**.
 
-## How to use
-![Go to content browser in you project](https://gyazo.com/42171487b0d5d81879aa3805c37c9610)
+Go to your content browser in you project and click on "**AudioManagerEditor***"
+![](https://i.gyazo.com/42171487b0d5d81879aa3805c37c9610.png)
